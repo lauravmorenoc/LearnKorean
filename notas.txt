@@ -1,0 +1,52 @@
+//Aprende Coreano
+
+- Permite introducir palabras nuevas (con su versión en español y en coreano) para poder ser practicadas 
+posteriormente.
+- Todo lo escrito en español debe ir acompañado de su versión en coreano.
+
+Menú principal:
+ Botones:
+ +Estudiar vocabulario
+  (Enunciado) Seleccione el modo de estudio
+  -Español a coreano
+  -Coreano a español
+  (opción) atrás
+  (Enunciado) Seleccione el/los grupos de palabras que desea estudiar
+  -profesiones
+  -paises
+  -verbos
+   +infinitivo
+   +presente
+   +pasado
+   +futuro
+   (opción) -atrás
+  -adjetivos
+   +presente
+   +pasado
+   +futuro
+   (opción) -atrás
+  -animales
+  -comida
+  -sustantivos varios
+  (opciones) -seleccionar todas -añadir nueva palabra -atrás
+ +Practicar números
+  (Enunciado) Seleccione el modo de estudio
+  -Español a coreano
+  -Coreano a español
+  (opción) atrás
+  (enunciado) Elija sistema numérico
+  -Sistema chino
+  -Sistema coreano
+  (opción) -atrás
+ +Traducir oraciones
+  (Enunciado) Seleccione el modo de estudio
+  -Español a coreano
+  -Coreano a español
+  (opción) atrás
+  (enunciado) Seleccione el tiempo verbal que desea estudiar
+  -presente
+  -pasado
+  -futuro
+  (opción) -atrás
+ +Consultar diccionario
+  (opción) -atrás
